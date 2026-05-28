@@ -1,5 +1,7 @@
 # Power Electronics Converters
 
+![Forward Converter Output](forward-converter/waveforms/forward_Vout_steady.png)
+
 Simulation and analysis of three fundamental DC-DC converter topologies,
 with hardware validation of a buck converter. Built as a self-directed
 study to deepen practical understanding of switching converter design,
